@@ -2,6 +2,7 @@
 
 A simple and interactive **Rock-Paper-Scissors** console game built using **C++**, where the player competes against the computer in multiple rounds.
 
+> This project demonstrates fundamental C++ concepts such as enums, structs, functions, and control flow.
 ---
 
 ## 🚀 Features
