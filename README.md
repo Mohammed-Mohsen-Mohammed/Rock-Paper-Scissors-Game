@@ -2,7 +2,6 @@
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![Level](https://img.shields.io/badge/Level-Beginner--Intermediate-orange)
 
 A simple and interactive **Rock-Paper-Scissors** console game built using **C++**, where the player competes against the computer in multiple rounds.
 
@@ -101,11 +100,11 @@ Final winner        : Player
 
 ## 💡 Future Improvements
 
-* Add GUI (Graphical Interface)
-* Store game history
-* Add difficulty levels
-* Convert to OOP design
-* Multiplayer mode
+🖥️ Add Graphical User Interface (GUI)
+💾 Store game history
+🎯 Add difficulty levels
+🧱 Convert to Object-Oriented Programming (OOP)
+👥 Multiplayer mode
 
 ---
 
