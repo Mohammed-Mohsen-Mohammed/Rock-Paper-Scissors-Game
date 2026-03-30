@@ -1,8 +1,12 @@
 # 🎮 Rock Paper Scissors Game (C++)
 
+![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Level](https://img.shields.io/badge/Level-Beginner--Intermediate-orange)
+
 A simple and interactive **Rock-Paper-Scissors** console game built using **C++**, where the player competes against the computer in multiple rounds.
 
-> This project demonstrates fundamental C++ concepts such as enums, structs, functions, and control flow.
+> 💡 This project demonstrates core C++ fundamentals and clean code structure.
 ---
 
 ## 🚀 Features
@@ -64,10 +68,12 @@ RockPaperScissors/
 
 ## 🧠 Game Logic
 
-* Stone beats Scissor
-* Scissor beats Paper
-* Paper beats Stone
-* Same choice = Draw
+| Player | Computer | Result |
+|--------|----------|--------|
+| Stone  | Scissor  | Win    |
+| Scissor| Paper    | Win    |
+| Paper  | Stone    | Win    |
+| Same   | Same     | Draw   |
 
 ---
 
@@ -80,6 +86,16 @@ Computer won times  : 1
 Draw times          : 1
 Final winner        : Player
 ```
+
+---
+
+## 🏗️ Concepts Used
+
+- Enums
+- Structs
+- Functions
+- Random Number Generation
+- Control Flow
 
 ---
 
