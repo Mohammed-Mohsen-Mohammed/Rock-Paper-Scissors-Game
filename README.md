@@ -55,16 +55,6 @@ g++ main.cpp -o game
 
 ---
 
-## 🧩 Project Structure
-
-```
-RockPaperScissors/
-│── main.cpp
-│── README.md
-```
-
----
-
 ## 🧠 Game Logic
 
 | Player | Computer | Result |
@@ -98,25 +88,7 @@ Final winner        : Player
 
 ---
 
-## 💡 Future Improvements
-
-🖥️ Add Graphical User Interface (GUI)
-💾 Store game history
-🎯 Add difficulty levels
-🧱 Convert to Object-Oriented Programming (OOP)
-👥 Multiplayer mode
-
----
-
-## 👨‍💻 Author
-
-**Mohamed Mohsen**
-Computer Science Student & Future Software Engineer 🚀
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
+### 👤 Author
+* **Mohamed Mohsen** - [GitHub](https://github.com/Mohammed-Mohsen-Mohammed) • [LinkedIn](https://www.linkedin.com/in/mohammed-mohsen-mohammed/)
 
 ---
